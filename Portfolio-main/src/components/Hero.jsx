@@ -163,7 +163,7 @@ const Hero = () => {
         className="w-[300px] h-[300px] md:w-[400px] md:h-[400px] rounded-full overflow-hidden border-[4px] border-purple-400 shadow-2xl z-10 transform transition-all hover:scale-110"
       >
         <img
-          src="/heroSection.jpg"
+          src="/portfolio.jpg"
           alt="Subrahmanyam"
           className="w-full h-full object-cover"
         />
